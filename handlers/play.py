@@ -293,7 +293,7 @@ async def play(_, message: Message):
         await message.reply_photo(
         photo="final.png",
         reply_markup=keyboard,
-        caption="**❰𝐞𝐒𝐩𝐨𝐫𝐭 𝐌𝐮𝐬𝐢𝐜'𝐗❱ 𝐍𝐨𝐰 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 𝐀𝐭 `{}`...**".format(
+        caption="**❰Koli 𝐗 𝐌𝐮𝐬𝐢𝐜❱ 𝐍𝐨𝐰 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 𝐀𝐭 `{}`...**".format(
         message.chat.title
         ), )
         os.remove("final.png")
