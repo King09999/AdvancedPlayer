@@ -6,9 +6,9 @@ load_dotenv()
 
 SESSION_NAME = getenv("SESSION_NAME", "session")
 BOT_TOKEN = getenv("BOT_TOKEN")
-BOT_NAME = getenv("BOT_NAME", "ʜᴇxᴏʀ")
+BOT_NAME = getenv("BOT_NAME", "Koli")
 
-BOT_USERNAME = getenv("BOT_USERNAME", "EsportRobot")
+BOT_USERNAME = getenv("BOT_USERNAME", "Kolixbot")
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 
