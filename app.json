@@ -1,8 +1,8 @@
 {
   "name": "Patricia",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "description": "Telegram's Group Voice Chat music bot. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/HEXOROP/EsportPlayer",
+  "repository": "https://github.com/King09999/AdvancedPlayer",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
